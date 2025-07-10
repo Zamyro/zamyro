@@ -34,18 +34,12 @@ Desenvolvedor full-stack com foco em **aplicativos móveis e web**, apaixonado p
 - **[Controle de Gastos com Streamlit]**  
   Aplicação em abas com suporte a múltiplos usuários, edição de lançamentos e visualização de resumos financeiros.
 
-### Scripts & Integrações
-
-- **[Importação e Parsing de Arquivos .DAT/.RET com Angular]**  
-  Leitura linha a linha de arquivos de layout fixo para preenchimento automático de objetos no frontend.
-
 ---
 
 ## Em aprendizado contínuo
 
 Estou sempre explorando novas tecnologias, especialmente nas áreas de:
 - **Inteligência Artificial aplicada a apps**
-- **Integração de mapas e rastreamento**
 - **Desenvolvimento multiplataforma (Flutter Web/Mobile/Desktop)**
 
 ---
