@@ -9,7 +9,7 @@ Desenvolvedor full-stack com foco em **aplicativos móveis e web**, apaixonado p
 - **Linguagens:** Dart, Python, Java, JavaScript, TypeScript, SQL
 - **Frameworks & Bibliotecas:** Flutter, Angular, Ionic, Tkinter, Streamlit, Spring Boot
 - **Backend & Banco de Dados:** Firebase, Firestore, PostgreSQL
-- **Outros:** Git, GitHub, REST APIs, Google Maps API, OpenAI (IA), JasperReports
+- **Outros:** Git, GitHub, REST APIs, Google Maps API, JasperReports
 
 ---
 
@@ -33,7 +33,6 @@ Desenvolvedor full-stack com foco em **aplicativos móveis e web**, apaixonado p
 ## Em aprendizado contínuo
 
 Estou sempre explorando novas tecnologias, especialmente nas áreas de:
-- **Inteligência Artificial aplicada a apps**
 - **Desenvolvimento multiplataforma (Flutter Web/Mobile/Desktop)**
 
 ---
