@@ -17,14 +17,8 @@ Desenvolvedor full-stack com foco em **aplicativos móveis e web**, apaixonado p
 
 ### Aplicativos Flutter
 
-- **[App de Rastreamento de Trajetos]**  
-  Aplicativo que grava rotas em tempo real no mapa, calcula tempo e velocidade e permite exportação do trajeto.
-
 - **[Site de Casamento Interativo]**  
   Site responsivo com abas para galeria, lista de presentes, confirmação de presença e muito mais. Backend completo com Firebase.
-
-- **[Gestão de Cargas e Motoristas]**  
-  App corporativo com login, agendamento de cargas, chat com empresa e rastreamento em background.
 
 ### Sistemas Desktop com Python
 
