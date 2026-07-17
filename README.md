@@ -17,8 +17,8 @@ Desenvolvedor full-stack com foco em **aplicativos móveis e web**, apaixonado p
 
 ### Aplicativos Flutter
 
-- **[Site de Casamento Interativo]**  
-  Site responsivo com abas para galeria, lista de presentes, confirmação de presença e muito mais. Backend completo com Firebase.
+- **[Lista de Compras]**
+  Aplicativo intuitivo para organizar compras e acompanhar valores de supermercados, e de extra uma lista de receitas
 
 ### Sistemas Desktop com Python
 
