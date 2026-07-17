@@ -17,7 +17,7 @@ Desenvolvedor full-stack com foco em **aplicativos móveis e web**, apaixonado p
 
 ### Aplicativos Flutter
 
-- **[Lista de Compras]**
+- **[Lista de Compras]**  
   Aplicativo intuitivo para organizar compras e acompanhar valores de supermercados, e de extra uma lista de receitas
 
 ### Sistemas Desktop com Python
